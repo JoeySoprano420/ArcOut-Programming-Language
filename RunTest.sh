@@ -1,0 +1,1 @@
+python3 test_arc_compiler_vm.py
